@@ -71,3 +71,18 @@
   LAN网络体系结构LAN/RM
   三层：物理层、逻辑链路控制子层LLC、介质访问控制子层MAC
   
+3、Internet和Intranet
+  三网融合
+  IP地址和域名
+  Internet提供的服务
+    电子邮件SMTP、MIME
+    文件传输FTP
+    运程登陆服务TELNET
+    电子公告板系统BBS
+    
+  Web服务
+    超文本标识语言HTML
+    超文本传输协议HTTP
+    WWW的基本特征
+    
+4、客户/服务器模式
